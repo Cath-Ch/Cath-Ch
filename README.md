@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A 2nd year computer science student</h3>
+<h3 align="center">A 3rd year computer science student</h3>
 
 <p align="left"> <a 
 href="https://github.com/ryo-ma/github-profile-trophy"><img 
