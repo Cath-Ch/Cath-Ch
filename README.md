@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A 3rd year computer science student</h3>
 
-- 🌱 I’m currently learning **C++, Java, HTML**
+- 🌱 I’m currently learning **React, CSS, Go**
 
 - 👨‍💻 All of my projects are available at 
 [https://github.com/Cath-Ch](https://github.com/Cath-Ch)
