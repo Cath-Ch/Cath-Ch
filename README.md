@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A 3rd year computer science student</h3>
 
-- 🌱 I’m currently learning **React, CSS, Go**
-
-- 👨‍💻 All of my projects are available at 
-[https://github.com/Cath-Ch](https://github.com/Cath-Ch)
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me: **catherinechen.ca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/catherine-chen-1bab111b3" 
+<a href="https://linkedin.com/in/cath-ch" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="catherine-chen-1bab111b3" height="30" width="40" /></a>
