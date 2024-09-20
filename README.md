@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A 3rd year computer science student at uOttawa</h3>
-
-- 🌱 I’m currently learning **React** and **Go**
+<h3 align="center">A 4th year computer science student at uOttawa</h3>
 
 - 📫 How to reach me: **catherinechen.ca@gmail.com**
 
