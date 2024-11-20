@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">A 4th year computer science student at uOttawa</h3>
 
-- 📫 How to reach me: **catherinechen.ca@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cath-ch" 
