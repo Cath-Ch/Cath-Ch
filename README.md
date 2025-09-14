@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A 4th year computer science student at uOttawa</h3>
+<h3 align="center">An uOttawa comp sci graduate</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
